@@ -3,7 +3,7 @@ This repository created for 3rd assignment in Data Structures &amp; Algorithms m
 
 This repository contains code for all 4 members:
 1. Linear Search - 
-2. Binary Search - 
+2. Binary Search - Nimesh Sandaruwan (22UG3-0132)
 3. Bubble Sort - Pubudu Lakshan (22UG3-0282)
 4. Quick Sort - 
 
